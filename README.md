@@ -264,6 +264,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Taskade Genesis](https://www.taskade.com/create)** – Prompt-to-app builder for live portals, CRMs, and dashboards with agents and automations.
 
 ---
+- **[Maestro](https://www.bemaestro.fr/en)** – macOS app that directs nine AI agents (Claude Code, Codex, Cursor or Mistral Vibe) from scoping to an approved spec, then code, with no terminal; projects stay on your Mac.
 
 ## UI Generators
 
