@@ -263,8 +263,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Cactal](https://cactal.ai)** – Cactal is the website platform for AI agents. Connect Claude Code, Cursor, or anything that speaks MCP, and your agent gets the tools to design, build, host, and operate production websites: source code, CMS, assets, domains, analytics, and publishing.
 - **[Taskade Genesis](https://www.taskade.com/create)** – Prompt-to-app builder for live portals, CRMs, and dashboards with agents and automations.
 
----
 - **[Maestro](https://www.bemaestro.fr/en)** – macOS app that directs nine AI agents (Claude Code, Codex, Cursor or Mistral Vibe) from scoping to an approved spec, then code, with no terminal; projects stay on your Mac.
+
+---
 
 ## UI Generators
 
